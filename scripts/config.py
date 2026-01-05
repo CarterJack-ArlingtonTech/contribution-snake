@@ -59,7 +59,7 @@ COLORS = {
         'grid': '#21262d',
         'levels': ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353'],
         'snake': '#ffe4e1',
-        'snake_head': '#ff6b6b'
+        'snake_head': '#e1fcff'
     },
     'light': {
         'background': '#ffffff',
