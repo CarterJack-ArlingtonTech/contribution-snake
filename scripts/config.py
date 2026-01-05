@@ -47,7 +47,7 @@ def validate_config():
 SNAKE_CONFIG = {
     'cell_size': 11,
     'cell_spacing': 3,
-    'snake_length': 6,
+    'snake_length': 12,
     'animation_duration': 120,  # milliseconds per frame
     'padding': 30
 }
@@ -58,7 +58,7 @@ COLORS = {
         'background': '#0d1117',
         'grid': '#21262d',
         'levels': ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353'],
-        'snake': '#f85149',
+        'snake': '#ffe4e1',
         'snake_head': '#ff6b6b'
     },
     'light': {
